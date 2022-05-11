@@ -1,11 +1,9 @@
-# SUTD QBot
-
-## Deployment
+# SUTD QBot Deployment
 Original guide could be found in the [UNSW QBot Repository](https://github.com/unsw-edu-au/QBot).
 
 Here, we will detail the step-by-step process of deploying the application including setting up the Azure resources in case user is unfamiliar with the Azure ecosystem.
 
-### 1. Setting Up Azure Subscription
+## 1. Setting Up Azure Subscription
 First, in order to deploy any resources on Azure, we need a subscription set up. 
 In portal.azure.com, go to the Subscriptions page and click on the "Add" button.
 ![](https://i.imgur.com/fUBdc0G.png)
