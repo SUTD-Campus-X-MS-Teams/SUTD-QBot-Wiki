@@ -10,9 +10,7 @@ In portal.azure.com, go to the Subscriptions page and click on the "Add" button.
 
 For this deployment, leave all the details to default and click on the "Create" button.
 
-:::info
-Sanity check: The subscription plan takes about 10 minutes to create. Afterwardds, if you go to Home > Subscriptions, you should be able to see the new subscription plan.
-:::
+**Sanity check**: The subscription plan takes about 10 minutes to create. Afterwards, if you go to Home > Subscriptions, you should be able to see the new subscription plan.
 
 Next, if you are not the billing administrator of this project, you could modify the billing details of this project to another account.
 
